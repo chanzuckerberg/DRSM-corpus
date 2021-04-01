@@ -12,7 +12,7 @@ Data is distributed as tab delimited text file.
 
 ## Code of Conduct 
 
-This project adheres to [the Contributor Covenant code of conduct](https://www.contributor-covenant.org/). By participating, you are expected to uphold this code. Please report unacceptable behavior to opensource@chanzuckerberg.com.
+This project adheres to [the Contributor Covenant code of conduct](https://www.contributor-covenant.org/), described in more detail here: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to opensource@chanzuckerberg.com.
 
 
 ## Security 
