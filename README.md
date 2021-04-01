@@ -2,7 +2,7 @@
 
 An annotated literature corpus for NLP studies of 'Disease Research State' based on different categories of research (`DRSM` stands for `Disease Research State Model`). This corpus reflects our current state of manually-curated research data for this task combined with curation instructions and details about the curation process.
 
-*Status:* Note that this project is in it's very early stages and should be considered `Unstable` (Early, active development, and may lack sufficient end-user documentation, assistance, etc., for anything other than the earliest adopters).
+**Status:** Note that this project is in it's very early stages and should be considered `Unstable` _(Early, active development, and may lack sufficient end-user documentation, assistance, etc., for anything other than the earliest adopters)_.
 
 
 ## Getting Started
