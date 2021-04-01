@@ -8,6 +8,11 @@ We provide access to a single corpus of primary research articles consisting of 
 
 The codes are intended to reflect the primary foci of the paper in terms of the primary research being performed.     
 
+## Code of Conduct 
+
+This project adheres to [the Contributor Covenant code of conduct](https://www.contributor-covenant.org/). By participating, you are expected to uphold this code. Please report unacceptable behavior to opensource@chanzuckerberg.com.
+
+
 ## Security 
 
 Please note: If you believe you have found a security involving this project, please responsibly disclose by contacting us at security@chanzuckerberg.com.
