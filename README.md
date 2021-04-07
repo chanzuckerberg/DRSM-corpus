@@ -63,4 +63,4 @@ This project adheres to [the Contributor Covenant code of conduct](https://www.c
 
 ## Primary Contact 
 
-Please direct any questions or feedback for this work to gully.burns@chanzuckerberg.com 
+Please direct any questions or feedback for this work to Gully Burns (CZIF Research Scientist) at gully.burns@chanzuckerberg.com 
