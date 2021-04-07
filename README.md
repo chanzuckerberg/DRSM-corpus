@@ -17,7 +17,7 @@ We provide access to a corpus of primary research articles expressed as a single
 * CATEGORIES - a comma-delimited set of categories used to classify the paper
 * IRRELEVANT - boolean tag that denotes if this paper is a primary research article (not a review or a conference report, etc)
 * DISEASE_NAME - Name of the disease queried from Meta's paper repository
-* URI - MONDO URI of the disease being characterized (see https://github.com/monarch-initiative/mondo, reused under CC  
+* URI - MONDO URI of the disease being characterized (see https://github.com/monarch-initiative/mondo, codes are reused MONDO's CC-BY 4.0 licsense).  
 
 The codes are intended to reflect the primary foci of the paper in terms of the primary research being performed.
 
@@ -57,7 +57,10 @@ _
 * `Natural Resistance to Disease` - studies highlighting natural resilience
 * `Prevention` - the majority of rare diseases are genetic and cannot be 'prevented' (in the same way as infectious disease), but this remains an important category. 
 
-
 ## Code of Conduct 
 
 This project adheres to [the Contributor Covenant code of conduct](https://www.contributor-covenant.org/), described in more detail here: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to opensource@chanzuckerberg.com.
+
+## Primary Contact 
+
+Please direct any questions or feedback for this work to gully.burns@chanzuckerberg.com 
