@@ -30,11 +30,10 @@ The categories that are currently included as targets for the document classific
 * `0.2. Related Diseases` - _a paper where the focus is on relationships between diseases (comorbidity, etc)_
 
 **Clinical Aspects**
-* `1.1. Clinical Characteristics` - _A paper that describes symptoms, signs, or ‘phenotype’ of a disease that would be presented to a physician in a clinic without extensive tests for pathology. _
+* `1.1. Clinical Characteristics` - _A paper that describes symptoms, signs, or ‘phenotype’ of a disease that would be presented to a physician in a clinic without extensive tests for pathology._
 * `1.2. Quality of Life (QOL)` - _A study describing patient experience or outcomes such as survival times, impact on mobility and other measures used to denote how the disease affects the patient’s quality of life._
 * `1.3. Disease Pathology` - _A paper describing evidence of (A) how disease damages tissues or impairs the function of patients’ bodies in a clinical context. This text may  involve descriptions of clinical tests; (B) Text describing work that concerns the act of diagnosis (i.e., identifying a patients’ disease based on evidence from other sources);  (C) biomarkers for specific molecular signals that signify the presence of a disease._
-* `1.4. Therapeutics in the Clinic` - _A study describing how treatments work in the clinic (but not in a clinical trial). 
-_
+* `1.4. Therapeutics in the Clinic` - _A study describing how treatments work in the clinic (but not in a clinical trial)._
 * `1.5. Epidemiology` - _A study that describes (A) population-level incidence, distribution, and possible control of diseases and other factors relating to health. (B) We also place statements related to the socioeconomic or economic costs of the disease/disease burden into this category. (C) Studies focussed on developing registries or large-scale datasets that address this question should also be placed into this category._
 * `1.6. Influence of Geography or the Environment` - _A study that describes (A) geographic aspects of populations of patients suffering from the disease under study; (B) the influence of the physical environment on aspects of the disease (including transmission, risk factors, etc)._
 
@@ -43,7 +42,7 @@ _
 * `2.2. Normal Biology` - _A paper that describes normal function of biological systems as the overall goal of a given study._
 * `2.3. Non-in-vivo human or non-human Model System` - _A paper that describes basic-science experimental models that are not based on in-vivo studies of humans._
 * `2.4. Basic Research Involving Human Subjects` - _Basic-science papers that are primarily focussed on developing new methods that are based on in-vivo studies of humans._
-* `2.5. Computational Biology and Informatics research` - _A paper where the primary contribution is the development or application of computational methods_. 
+* `2.5. Computational Biology and Informatics research` - _A paper where the primary contribution is the development or application of computational methods._ 
 
 **Translational Aspects**
 * `3.1. Therapeutic Hypothesis` - _A study where a significant contribution of the paper is to put forward a new hypothesize for how basic science findings could lead  to the development of therapeutic or diagnostic methods._
