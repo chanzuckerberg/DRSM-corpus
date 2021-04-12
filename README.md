@@ -19,7 +19,7 @@ We provide access to a corpus of primary research articles expressed as a single
 * DISEASE_NAME - Name of the disease queried from Meta's paper repository
 * URI - MONDO URI of the disease being characterized (see https://github.com/monarch-initiative/mondo, codes are reused MONDO's CC-BY 4.0 licsense).  
 
-The codes are intended to reflect the primary foci of the paper in terms of the primary research being performed. See this [wiki page](wiki/Category-Model) for the latest categorization used to denote different classes of disease research paper.  
+The codes are intended to reflect the primary foci of the paper in terms of the primary research being performed. See this [wiki page](../../wiki/Category-Model) for the latest categorization used to denote different classes of disease research paper.  
 
 ## Code of Conduct 
 
