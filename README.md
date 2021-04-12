@@ -14,14 +14,12 @@ We provide access to a corpus of primary research articles expressed as a single
 * PMID - The PubMed Identifier of the paper 
 * TITLE - The title of the paper
 * ABSTRACT - The abstract of the paper
-* CATEGORIES - a comma-delimited set of categories used to classify the paper
+* CATEGORIES - a comma-delimited set of categories used to classify the paper 
 * IRRELEVANT - boolean tag that denotes if this paper is a primary research article (not a review or a conference report, etc)
 * DISEASE_NAME - Name of the disease queried from Meta's paper repository
 * URI - MONDO URI of the disease being characterized (see https://github.com/monarch-initiative/mondo, codes are reused MONDO's CC-BY 4.0 licsense).  
 
-The codes are intended to reflect the primary foci of the paper in terms of the primary research being performed.
-
-
+The codes are intended to reflect the primary foci of the paper in terms of the primary research being performed. See this [wiki page](wiki/Category-Model) for the latest categorization used to denote different classes of disease research paper.  
 
 ## Code of Conduct 
 
