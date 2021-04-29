@@ -23,6 +23,8 @@ The codes are intended to reflect the primary foci of the paper in terms of the 
 
 [See this wiki page for the latest categorization used to denote different classes of disease research paper.](../../wiki/Category-Model)  
 
+Note- due to the complexity of this model, we are restricting ourselves to a subset of categories in our initial work, see [this wiki page](../../wiki/Initial-Curation-Task) .
+
 ## We include all available curated data for provenance and transparency
 
 We provide access to all curated data being used. This includes data taken across multiple curators within a team, filtered for consensus, and then checked and edited by a senior curator. This data is available as a `*.tsv` file ([curated_data.tsv](https://github.com/chanzuckerberg/DRSM-corpus/blob/main/curated_data.tsv), with the same columns as above with three additional data columns:  
