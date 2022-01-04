@@ -48,7 +48,7 @@ Following our in-house curation, we use the service provided by [`Centaur Labs`]
 * AGREEMENT - A score from 0.0-1.0 showing how much agreement there was for the label from CentaurLab annotators.
 * TRIMMED_TEXT - the title / abstract of the paper trimmed to 400 words, preserving the article title and trailing text of the abstract.  
 
-At present, this dataset consists of `1,144 'Gold Standard' articles` labeled by our in-house curation team and `7,782 articles labeled by CentaurLabs annotators`. This provides a corpus of 8,926 rare-disease primary research articles labeled for relevance and the research type. 
+At present, this dataset consists of **1,144 'Gold Standard' articles** labeled by our in-house curation team and **7,782 articles labeled by CentaurLabs annotators**. This provides a corpus of **8,926 rare-disease primary research articles** labeled for relevance and the research type. 
 
 ## Extending Curation to additional categories 
 
