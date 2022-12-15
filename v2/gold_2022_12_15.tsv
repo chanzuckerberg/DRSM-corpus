@@ -1,0 +1,346 @@
+PMID	Labeling_State	Correct_Label	Agreement	vector	predicted	true_cats
+27002269	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.25	[0.68, 0.7, 0.77, 0.7]	1	1
+30466122	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.3	[2.27, 1.32, 1.32, 2.1]	-1	-1
+28266089	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.3	[1.46, 2.24, 2.14, 1.44]	0	2
+31673367	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.308	[2.7, 2.92, 2.12, 1.32]	0	2
+30443536	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.333	[2.8, 3.1, 2.98, 0.0]	0	2
+31994957	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.333	[2.66, 3.06, 2.92, 0.0]	0	-1
+26399329	Gold Standard	'0 - the study does not directly investigate quality of life'	0.333	[0.0, 0.84, 0.62, 0.62]	0	0
+21306237	Gold Standard	'0 - the study does not directly investigate quality of life'	0.353	[4.23, 3.38, 4.27, 0.0]	1	0
+33758820	Gold Standard	'0 - the study does not directly investigate quality of life'	0.357	[2.88, 3.62, 3.52, 0.0]	0	0
+23418997	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.357	[3.34, 3.63, 2.76, 0.0]	0	-1
+32061857	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.357	[2.8, 3.54, 3.5, 0.0]	0	1
+32568150	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.357	[2.58, 3.72, 2.86, 0.7]	0	2
+31038230	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.357	[3.68, 3.68, 2.86, 0.0]	-1	1
+22131679	Gold Standard	'0 - the study does not directly investigate quality of life'	0.357	[3.54, 3.92, 3.01, 0.0]	0	0
+22185050	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.364	[1.32, 2.92, 1.36, 2.04]	0	2
+26445325	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.364	[2.28, 3.14, 3.02, 0.0]	0	1
+20592857	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.4	[0.74, 1.5, 1.38, 0.0]	0	1
+12791330	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.4	[0.0, 1.38, 1.54, 0.7]	1	1
+15663130	Gold Standard	'0 - the study does not directly investigate quality of life'	0.4	[0.6, 1.34, 1.36, 0.0]	1	0
+25736164	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.4	[0.61, 1.58, 0.0, 1.61]	2	2
+25845857	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.4	[0.0, 0.64, 1.37, 1.38]	2	2
+29575626	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.4	[0.0, 1.36, 0.82, 1.28]	0	2
+30996384	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.4	[0.66, 1.4, 1.35, 0.0]	0	1
+28820301	Gold Standard	'0 - the study does not directly investigate quality of life'	0.426	[39.85, 34.97, 19.11, 0.0]	-1	0
+27823948	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.492	[1.28, 45.24, 44.98, 0.82]	0	1
+22213776	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.0, 0.68, 0.76, 1.51]	2	1
+18688785	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.0, 1.37, 1.46, 0.0]	1	1
+20209594	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.5	[0.0, 0.69, 1.44, 0.6]	1	2
+21719429	Gold Standard	'0 - the study does not directly investigate quality of life'	0.5	[0.0, 1.62, 1.52, 0.0]	0	0
+24321081	Gold Standard	'0 - the study does not directly investigate quality of life'	0.5	[0.82, 0.7, 0.0, 0.0]	-1	0
+32186590	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.0, 1.95, 2.36, 0.0]	1	1
+20433730	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.0, 1.48, 1.4, 0.0]	0	1
+11689996	Gold Standard	'0 - the study does not directly investigate quality of life'	0.5	[0.7, 0.64, 1.28, 0.0]	1	0
+28754072	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.5	[6.72, 1.28, 0.6, 3.73]	-1	-1
+22910174	Gold Standard	'0 - the study does not directly investigate quality of life'	0.5	[1.36, 1.38, 0.0, 0.0]	0	0
+31470768	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.5	[0.0, 1.54, 0.0, 1.29]	0	2
+26504125	Gold Standard	'0 - the study does not directly investigate quality of life'	0.5	[0.66, 0.76, 1.28, 0.0]	1	0
+24237632	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.0, 1.5, 1.52, 0.0]	1	1
+19942457	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.0, 1.44, 1.58, 0.0]	1	1
+30375317	Gold Standard	'0 - the study does not directly investigate quality of life'	0.5	[2.08, 1.98, 0.0, 0.0]	-1	0
+34076273	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.5	[0.0, 0.0, 0.74, 0.72]	1	2
+22208118	Gold Standard	'0 - the study does not directly investigate quality of life'	0.5	[0.62, 1.62, 0.7, 0.0]	0	0
+20010911	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.64, 1.44, 2.04, 0.0]	1	1
+12214902	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[1.42, 1.34, 2.92, 0.0]	1	1
+30497218	Gold Standard	'0 - the study does not directly investigate quality of life'	0.5	[0.0, 1.54, 0.62, 0.68]	0	0
+12609271	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.0, 0.74, 1.26, 0.68]	1	1
+22721255	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.5	[0.0, 0.76, 0.6, 1.55]	2	2
+31902052	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.64, 2.02, 1.32, 0.0]	0	1
+22679413	Gold Standard	'0 - the study does not directly investigate quality of life'	0.5	[0.0, 0.64, 0.78, 0.0]	1	0
+31742894	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.62, 2.08, 1.59, 0.0]	0	1
+30871879	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.5	[0.0, 0.6, 0.6, 1.56]	2	2
+32014003	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.5	[0.66, 0.0, 0.0, 0.66]	-1	2
+32844998	Gold Standard	'0 - the study does not directly investigate quality of life'	0.5	[0.66, 0.8, 0.0, 0.0]	0	0
+32299507	Gold Standard	'0 - the study does not directly investigate quality of life'	0.5	[0.0, 1.44, 1.34, 0.0]	0	0
+20601971	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.0, 0.6, 0.68, 0.0]	1	1
+21061899	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.62, 0.0, 0.7, 1.44]	2	1
+28848425	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.0, 1.38, 1.44, 0.0]	1	1
+22870473	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.66, 0.65, 1.52, 0.0]	1	1
+15333688	Gold Standard	'0 - the study does not directly investigate quality of life'	0.5	[0.7, 1.4, 0.6, 0.0]	0	0
+25307854	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.0, 0.68, 1.52, 0.78]	1	1
+27067697	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.62, 1.5, 0.68, 0.0]	0	1
+31330249	Gold Standard	'0 - the study does not directly investigate quality of life'	0.5	[0.0, 1.26, 1.44, 0.0]	1	0
+17924237	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.5	[0.0, 0.0, 1.34, 1.56]	2	2
+30672136	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.5	[0.0, 1.3, 1.4, 0.0]	1	1
+24912732	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.559	[5.24, 56.05, 36.26, 1.22]	0	1
+25168376	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.567	[33.19, 53.1, 4.12, 2.68]	0	2
+26751606	Gold Standard	'0 - the study does not directly investigate quality of life'	0.571	[0.64, 3.0, 1.28, 0.0]	0	0
+19948417	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.571	[1.42, 0.0, 0.6, 2.98]	2	2
+24942542	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.571	[0.6, 2.89, 0.71, 0.8]	0	1
+26108240	Gold Standard	'0 - the study does not directly investigate quality of life'	0.571	[0.68, 2.92, 1.44, 0.0]	0	0
+32959446	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.571	[5.64, 3.88, 0.0, 0.0]	-1	-1
+34590355	Gold Standard	'0 - the study does not directly investigate quality of life'	0.571	[0.0, 2.76, 2.17, 0.0]	0	0
+34018012	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.571	[0.0, 2.07, 2.62, 0.0]	1	1
+27798725	Gold Standard	'0 - the study does not directly investigate quality of life'	0.598	[0.0, 34.6, 52.32, 0.0]	1	0
+18306329	Gold Standard	'0 - the study does not directly investigate quality of life'	0.599	[1.32, 37.74, 58.48, 0.0]	1	0
+33159471	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.6	[0.0, 2.16, 4.02, 0.64]	1	1
+31769253	Gold Standard	'0 - the study does not directly investigate quality of life'	0.6	[0.0, 2.1, 1.4, 0.0]	0	0
+33862315	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.6	[0.0, 0.0, 1.44, 2.07]	2	2
+11460909	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.6	[0.0, 1.3, 4.3, 1.24]	1	1
+31928107	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.6	[0.0, 1.48, 2.15, 0.0]	1	1
+31615556	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.6	[0.0, 2.28, 1.44, 0.0]	0	1
+29637391	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.6	[0.6, 2.02, 0.62, 0.0]	0	1
+29981580	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.6	[0.6, 0.6, 1.98, 0.0]	1	1
+24058202	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.6	[0.0, 2.28, 0.66, 0.74]	0	1
+22258042	Gold Standard	'0 - the study does not directly investigate quality of life'	0.6	[0.76, 2.02, 0.68, 0.0]	0	0
+34123455	Gold Standard	'0 - the study does not directly investigate quality of life'	0.609	[5.16, 58.12, 31.42, 0.0]	0	0
+30200816	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.625	[7.35, 0.63, 3.28, 0.0]	-1	-1
+34094020	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.628	[4.8, 64.08, 31.81, 1.2]	0	1
+12609309	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.632	[8.95, 2.62, 2.14, 0.0]	-1	-1
+17611444	Gold Standard	'0 - the study does not directly investigate quality of life'	0.636	[21.1, 59.48, 9.95, 0.62]	0	0
+24860645	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.65	[9.0, 1.85, 2.56, 0.0]	-1	-1
+27184947	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.652	[10.72, 1.22, 4.0, 0.0]	-1	-1
+17105463	Gold Standard	'0 - the study does not directly investigate quality of life'	0.653	[29.7, 65.79, 4.58, 0.0]	0	0
+18414785	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.662	[9.64, 63.89, 5.2, 18.03]	0	2
+10774604	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.0, 0.62, 1.54, 0.0]	1	0
+26992743	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.62, 1.4, 0.0, 0.0]	0	0
+28593385	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.0, 1.24, 0.82, 0.0]	0	0
+23557722	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.667	[0.0, 0.6, 1.36, 0.0]	1	1
+23165758	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[1.34, 2.7, 0.0, 0.0]	0	0
+32658385	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.667	[0.0, 0.62, 2.84, 0.76]	1	1
+26426855	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.667	[0.0, 0.0, 0.84, 1.33]	2	1
+33996351	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.667	[0.0, 1.3, 2.9, 0.0]	1	1
+34019007	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[1.26, 0.0, 0.76, 0.0]	-1	0
+16734412	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.0, 1.4, 0.66, 0.0]	0	0
+18495178	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.76, 1.44, 0.0, 0.0]	0	0
+26436955	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.0, 1.5, 0.72, 0.0]	0	0
+26307081	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.0, 1.28, 0.66, 0.0]	0	0
+25336963	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.667	[0.0, 0.71, 0.0, 1.38]	2	2
+29153022	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.68, 1.4, 0.0, 0.0]	0	0
+32476528	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.667	[0.0, 0.0, 0.72, 1.36]	2	2
+33094000	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.0, 1.44, 0.62, 0.0]	0	0
+31372341	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.667	[0.0, 0.0, 0.66, 1.33]	2	2
+23539488	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.667	[7.32, 2.62, 0.62, 0.0]	-1	-1
+23472624	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.0, 1.26, 0.0, 0.76]	0	0
+31440199	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.0, 0.7, 1.46, 0.0]	1	0
+12628070	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.6, 2.62, 0.72, 0.0]	0	0
+18930363	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.667	[0.0, 0.0, 0.68, 1.4]	2	2
+28889845	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.667	[0.0, 0.0, 1.3, 0.84]	1	1
+28535810	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.667	[0.68, 0.6, 2.96, 0.0]	1	1
+31403374	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.667	[0.0, 1.26, 0.64, 0.0]	0	1
+23490456	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.667	[0.0, 1.28, 0.0, 0.6]	0	1
+27358286	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.667	[0.63, 3.0, 0.66, 0.0]	0	2
+16652077	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.0, 1.26, 0.6, 0.0]	0	0
+31719169	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.667	[0.0, 0.66, 1.52, 0.0]	1	1
+32380069	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.68, 1.58, 0.0, 0.0]	0	0
+32090147	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.66, 1.56, 0.0, 0.0]	0	0
+25724846	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[0.0, 2.77, 1.33, 0.0]	0	0
+20627321	Gold Standard	'0 - the study does not directly investigate quality of life'	0.667	[1.28, 0.76, 0.0, 0.0]	-1	0
+12092186	Gold Standard	'0 - the study does not directly investigate quality of life'	0.671	[12.6, 68.87, 18.97, 0.64]	0	0
+23686724	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.676	[68.02, 24.94, 6.19, 0.0]	-1	-1
+33027869	Gold Standard	'0 - the study does not directly investigate quality of life'	0.678	[27.69, 68.41, 3.66, 0.62]	0	0
+31286108	Gold Standard	'0 - the study does not directly investigate quality of life'	0.693	[6.46, 66.57, 20.5, 0.63]	0	0
+22073053	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.706	[8.19, 2.71, 0.65, 0.0]	-1	-1
+29552494	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.714	[0.0, 0.68, 3.52, 0.6]	1	1
+24774721	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.714	[0.0, 1.5, 3.3, 0.0]	1	1
+28420367	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.714	[0.65, 0.61, 3.76, 0.0]	1	1
+34635134	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.714	[0.0, 1.22, 3.42, 0.0]	1	1
+19969478	Gold Standard	'0 - the study does not directly investigate quality of life'	0.719	[19.84, 67.42, 6.12, 0.0]	0	0
+26579965	Gold Standard	'0 - the study does not directly investigate quality of life'	0.739	[1.28, 73.52, 23.33, 0.68]	0	0
+19057423	Gold Standard	'0 - the study does not directly investigate quality of life'	0.741	[1.28, 75.21, 23.52, 0.64]	0	0
+17531444	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.75	[0.0, 0.0, 1.97, 0.7]	1	2
+34316305	Gold Standard	'0 - the study does not directly investigate quality of life'	0.75	[0.0, 2.22, 0.6, 0.0]	0	0
+32103756	Gold Standard	'0 - the study does not directly investigate quality of life'	0.75	[11.62, 71.3, 11.27, 0.0]	0	0
+16283343	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.75	[0.0, 0.7, 2.2, 0.0]	1	1
+34070569	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.75	[0.0, 0.0, 0.6, 2.25]	2	2
+26375451	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.75	[0.0, 0.6, 2.1, 0.0]	1	1
+34103343	Gold Standard	'0 - the study does not directly investigate quality of life'	0.75	[0.0, 2.0, 0.66, 0.0]	0	0
+28119378	Gold Standard	'0 - the study does not directly investigate quality of life'	0.75	[0.0, 2.12, 0.64, 0.0]	0	0
+16001821	Gold Standard	'0 - the study does not directly investigate quality of life'	0.75	[0.0, 2.37, 0.0, 0.62]	0	0
+32522973	Gold Standard	'0 - the study does not directly investigate quality of life'	0.75	[0.7, 2.04, 0.0, 0.0]	0	0
+22878967	Gold Standard	'0 - the study does not directly investigate quality of life'	0.75	[0.0, 2.1, 0.7, 0.0]	0	0
+32222840	Gold Standard	'0 - the study does not directly investigate quality of life'	0.75	[0.0, 2.18, 0.0, 0.68]	0	0
+15050127	Gold Standard	'0 - the study does not directly investigate quality of life'	0.75	[0.64, 2.13, 0.0, 0.0]	0	0
+23517897	Gold Standard	'0 - the study does not directly investigate quality of life'	0.75	[0.74, 2.2, 0.0, 0.0]	0	0
+32933962	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.75	[0.0, 0.0, 2.08, 0.6]	1	1
+24587054	Gold Standard	'0 - the study does not directly investigate quality of life'	0.75	[0.66, 2.14, 0.0, 0.0]	0	0
+11467653	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.75	[0.0, 0.0, 0.6, 2.12]	2	2
+25240122	Gold Standard	'0 - the study does not directly investigate quality of life'	0.75	[0.0, 2.02, 0.6, 0.0]	0	0
+25887861	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.75	[1.28, 0.0, 4.29, 0.0]	1	1
+22684049	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.75	[0.0, 0.0, 0.78, 2.02]	2	1
+25025685	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.75	[0.62, 0.0, 1.94, 0.0]	1	1
+21697252	Gold Standard	'0 - the study does not directly investigate quality of life'	0.75	[0.0, 1.9, 0.64, 0.0]	0	0
+11990307	Gold Standard	'0 - the study does not directly investigate quality of life'	0.75	[0.0, 2.04, 0.0, 0.6]	0	0
+31196128	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.75	[0.0, 0.0, 1.26, 4.19]	2	1
+25199101	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.759	[1.86, 19.59, 71.28, 0.0]	1	1
+34200087	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.764	[6.2, 74.9, 14.94, 1.34]	0	2
+20226896	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.773	[11.86, 3.3, 0.0, 0.0]	-1	-1
+20719406	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.775	[1.22, 18.34, 75.4, 0.66]	1	1
+19913812	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.778	[0.6, 5.62, 0.62, 0.0]	0	2
+28178141	Gold Standard	'0 - the study does not directly investigate quality of life'	0.781	[2.52, 82.22, 19.36, 0.0]	0	0
+32058213	Gold Standard	'0 - the study does not directly investigate quality of life'	0.783	[3.78, 75.48, 15.9, 0.62]	0	0
+33641247	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.789	[0.81, 73.18, 10.46, 7.87]	0	2
+28543732	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.791	[14.21, 72.91, 4.82, 0.0]	0	1
+21296549	Gold Standard	'0 - the study does not directly investigate quality of life'	0.794	[5.1, 75.8, 12.94, 0.64]	0	0
+22121832	Gold Standard	'0 - the study does not directly investigate quality of life'	0.8	[0.0, 2.84, 0.62, 0.0]	0	0
+10745149	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.8	[8.57, 1.28, 0.74, 0.0]	-1	-1
+22143301	Gold Standard	'0 - the study does not directly investigate quality of life'	0.8	[0.63, 2.75, 0.0, 0.0]	0	0
+11211435	Gold Standard	'0 - the study does not directly investigate quality of life'	0.8	[0.0, 3.02, 0.68, 0.0]	0	0
+25753951	Gold Standard	'0 - the study does not directly investigate quality of life'	0.8	[0.0, 2.8, 0.76, 0.0]	0	0
+11043134	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.8	[0.0, 0.68, 2.86, 0.0]	1	1
+21743870	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.8	[0.0, 0.0, 0.6, 2.85]	2	2
+33989441	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.813	[2.62, 69.8, 12.62, 0.0]	0	2
+20721717	Gold Standard	'0 - the study does not directly investigate quality of life'	0.814	[8.84, 79.95, 8.02, 0.62]	0	0
+31047123	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.816	[1.36, 79.37, 10.15, 5.94]	0	2
+24676443	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.818	[6.36, 1.55, 0.0, 0.0]	-1	-1
+19165442	Gold Standard	'0 - the study does not directly investigate quality of life'	0.824	[80.51, 17.07, 0.64, 0.0]	-1	0
+21384469	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.83	[0.0, 80.63, 15.38, 0.74]	0	1
+18095071	Gold Standard	'0 - the study does not directly investigate quality of life'	0.833	[0.66, 3.42, 0.0, 0.0]	0	0
+28079431	Gold Standard	'0 - the study does not directly investigate quality of life'	0.833	[0.62, 4.04, 0.0, 0.0]	0	0
+31319856	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.833	[0.0, 0.0, 0.6, 3.5]	2	2
+27884455	Gold Standard	'0 - the study does not directly investigate quality of life'	0.833	[0.72, 3.4, 0.0, 0.0]	0	0
+27087264	Gold Standard	'0 - the study does not directly investigate quality of life'	0.833	[0.0, 3.44, 0.82, 0.0]	0	0
+22568130	Gold Standard	'0 - the study does not directly investigate quality of life'	0.833	[0.0, 3.49, 0.68, 0.0]	0	0
+30678710	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.833	[0.66, 0.0, 3.44, 0.0]	1	1
+29692918	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.833	[0.82, 0.0, 3.46, 0.0]	1	1
+26706483	Gold Standard	'0 - the study does not directly investigate quality of life'	0.833	[0.0, 3.28, 0.68, 0.0]	0	0
+10654985	Gold Standard	'0 - the study does not directly investigate quality of life'	0.833	[0.0, 3.42, 0.7, 0.0]	0	0
+32447600	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.833	[0.0, 0.0, 0.64, 3.42]	2	2
+30547806	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.835	[6.23, 80.12, 7.83, 1.4]	0	2
+33977206	Gold Standard	'0 - the study does not directly investigate quality of life'	0.84	[4.01, 76.9, 9.62, 0.0]	0	0
+34290297	Gold Standard	'0 - the study does not directly investigate quality of life'	0.845	[3.34, 85.45, 11.07, 0.0]	0	0
+19820205	Gold Standard	'0 - the study does not directly investigate quality of life'	0.85	[81.42, 13.47, 0.62, 0.0]	-1	0
+32116827	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.857	[0.0, 0.82, 4.14, 0.0]	1	1
+20479422	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.857	[0.0, 0.0, 4.28, 0.6]	1	1
+18034574	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.857	[8.26, 0.68, 0.82, 0.0]	-1	-1
+33351342	Gold Standard	'0 - the study does not directly investigate quality of life'	0.857	[0.0, 4.34, 0.68, 0.0]	0	0
+19165073	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.857	[0.0, 0.6, 4.2, 0.0]	1	1
+31333569	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.857	[0.0, 0.72, 4.12, 0.0]	1	1
+34471441	Gold Standard	'0 - the study does not directly investigate quality of life'	0.857	[0.0, 3.96, 0.68, 0.0]	0	0
+28956500	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.869	[2.43, 9.07, 84.84, 0.0]	1	1
+21159808	Gold Standard	'0 - the study does not directly investigate quality of life'	0.87	[8.17, 88.71, 4.66, 0.0]	0	0
+30913948	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.875	[0.0, 0.0, 0.68, 4.62]	2	2
+10985189	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.875	[9.9, 0.76, 0.66, 0.0]	-1	-1
+30705924	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.875	[0.0, 0.7, 5.29, 0.0]	1	1
+21739594	Gold Standard	'0 - the study does not directly investigate quality of life'	0.876	[78.15, 10.8, 0.0, 0.0]	-1	0
+27737654	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.879	[1.26, 10.13, 86.81, 0.0]	1	1
+31689747	Gold Standard	'0 - the study does not directly investigate quality of life'	0.881	[3.16, 84.62, 7.13, 0.0]	0	0
+21790560	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.882	[10.52, 1.24, 0.0, 0.0]	-1	-1
+26972925	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.885	[0.69, 7.27, 83.67, 2.62]	1	2
+32928263	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.892	[0.62, 9.41, 87.54, 0.0]	1	1
+18005192	Gold Standard	'0 - the study does not directly investigate quality of life'	0.895	[5.13, 89.52, 4.16, 0.72]	0	0
+32649517	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.9	[0.0, 1.93, 7.39, 88.27]	2	2
+21668444	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.9	[0.0, 0.0, 0.68, 6.08]	2	2
+26521223	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.901	[0.0, 8.99, 88.9, 0.0]	1	1
+25677409	Gold Standard	'0 - the study does not directly investigate quality of life'	0.906	[4.82, 88.74, 4.09, 0.0]	0	0
+15739086	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.923	[0.6, 0.79, 6.28, 89.54]	2	1
+21104172	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.933	[9.84, 0.0, 0.66, 0.0]	-1	-1
+32893960	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.949	[0.0, 2.04, 2.66, 92.01]	2	2
+31049826	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.951	[0.0, 0.0, 4.74, 95.47]	2	2
+33897505	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.952	[0.62, 1.5, 2.94, 95.14]	2	1
+25794289	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.962	[1.36, 0.64, 1.26, 87.79]	2	1
+30062132	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	0.978	[0.77, 0.78, 0.6, 90.34]	2	1
+32356861	Gold Standard	'0 - the study does not directly investigate quality of life'	0.978	[0.62, 95.7, 1.38, 0.0]	0	0
+33036834	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	0.979	[96.88, 1.98, 0.0, 0.0]	-1	-1
+10685757	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.986	[0.64, 0.0, 0.62, 94.69]	2	2
+31632349	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.986	[0.0, 0.66, 0.6, 100.3]	2	2
+31475479	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	0.993	[0.9, 0.0, 0.0, 93.7]	2	2
+34160081	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 0.0, 3.66, 0.0]	1	1
+25870456	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.0, 0.0, 0.0]	0	0
+27468682	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 5.02, 0.0, 0.0]	0	1
+29754868	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 3.84, 0.0, 0.0]	0	0
+25972904	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.13]	2	2
+27629372	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 0.0, 2.86, 0.0]	1	1
+33238717	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 5.54]	2	2
+34633580	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	1.0	[14.09, 0.0, 0.0, 0.0]	-1	-1
+29459061	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.36, 0.0, 0.0]	0	0
+28426778	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.82]	2	2
+30561084	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.9]	2	2
+31653707	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 0.0, 2.92, 0.0]	1	1
+28663407	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.82]	2	2
+29994930	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 3.4]	2	2
+29533755	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 0.0, 2.88, 0.0]	1	1
+29316973	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.84, 0.0, 0.0]	0	0
+32702212	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 1.98]	2	2
+31242892	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 0.0, 4.43, 0.0]	1	1
+32580399	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 0.0, 3.55, 0.0]	1	1
+32555313	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 1.39, 0.0, 0.0]	0	0
+30009566	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 4.13, 0.0, 0.0]	0	0
+19797134	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 3.52]	2	2
+23019410	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.81, 0.0, 0.0]	0	0
+27760661	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 0.0, 1.42, 0.0]	1	0
+33912655	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 3.47, 0.0, 0.0]	0	0
+31290422	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.67, 0.0, 0.0]	0	0
+17684891	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 3.48]	2	2
+15030903	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.69, 0.0, 0.0]	0	0
+16652078	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 3.48]	2	2
+28649320	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 3.06, 0.0, 0.0]	0	0
+23021735	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 1.28]	2	2
+22087461	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 1.38, 0.0, 0.0]	0	0
+25976687	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 5.39]	2	2
+31590945	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.29]	2	2
+31330987	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 4.82]	2	2
+34037850	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 2.76, 0.0, 0.0]	0	1
+29082797	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.66, 0.0, 0.0, 0.0]	-1	2
+28558706	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 1.9, 0.0, 0.0]	0	0
+29786243	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.16, 0.0, 0.0]	0	0
+34375802	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 4.36]	2	2
+32642740	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.7]	2	2
+34020203	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 0.0, 3.4, 0.0]	1	1
+29689733	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.83]	2	2
+28232410	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.68]	2	2
+29625617	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.91, 0.0, 0.0]	0	0
+15107734	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 5.61]	2	2
+25896138	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 1.26, 0.0, 0.0]	0	0
+32484386	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 0.0, 4.76, 0.0]	1	1
+16534790	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 1.52, 0.0, 0.0]	0	0
+31463603	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 0.0, 2.01, 0.0]	1	1
+24075522	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 1.53, 0.0, 0.0]	0	0
+32191135	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.04]	2	2
+29860398	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.96, 0.0, 0.0]	0	0
+30241056	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 1.4, 0.0, 0.0]	0	0
+33681658	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 1.32, 0.0, 0.0]	0	0
+21225518	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 5.72]	2	2
+23783017	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.3]	2	2
+28628797	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 0.68, 0.0, 0.0]	0	0
+22048969	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 0.0, 1.27, 0.0]	1	1
+29055263	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.79, 0.0, 0.0]	0	0
+31910111	Gold Standard	'-1 - the paper is not a primary experimental study in rare disease'	1.0	[9.8, 0.0, 0.0, 0.0]	-1	-1
+32829413	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.06, 0.0, 0.0]	0	0
+29152767	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 1.48, 0.0, 0.0]	0	2
+25779467	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.14]	2	2
+30146327	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.7, 0.0, 0.0]	0	0
+28499135	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.98, 0.0, 0.0]	0	0
+30523438	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 3.45]	2	2
+25178347	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.22, 0.0, 0.0]	0	0
+26033472	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 3.36, 0.0, 0.0]	0	0
+20433296	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 4.22, 0.0, 0.0]	0	0
+11082880	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 0.66, 0.0, 0.0]	0	0
+18509577	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 1.89]	2	2
+33946008	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 1.41]	2	2
+15541702	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 1.94, 0.0, 0.0]	0	0
+10846764	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.59, 0.0, 0.0]	0	0
+23977038	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 0.68, 0.0, 0.0]	0	0
+24433856	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 0.0, 1.27, 0.0]	1	1
+26337264	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 0.0, 2.48, 0.0]	1	1
+27879058	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 0.0, 0.0, 1.52]	2	0
+23384412	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.15, 0.0, 0.0]	0	0
+30908653	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 0.0, 2.9, 0.0]	1	1
+31111502	Gold Standard	'1 - the study investigates qol but not as its primary contribution'	1.0	[0.0, 0.0, 3.98, 0.0]	1	1
+23881614	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.62]	2	2
+34325014	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 1.5, 0.0, 0.0]	0	0
+31040040	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 0.0, 0.6, 0.0]	1	0
+17489811	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 1.6, 0.0, 0.0]	0	0
+18635584	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 1.28, 0.0, 0.0]	0	0
+32730547	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 1.4, 0.0, 0.0]	0	0
+31032791	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.22, 0.0, 0.0]	0	0
+16996395	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.9]	2	2
+21086185	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 3.22]	2	2
+14629502	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.24]	2	2
+28498263	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 1.88]	2	2
+28032156	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 1.22, 0.0, 0.0]	0	0
+20467233	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 0.0, 0.6, 0.0]	1	0
+28246220	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 4.5]	2	2
+33341033	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 1.48]	2	2
+29600940	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 3.56]	2	2
+28806327	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.83]	2	2
+16538555	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 3.02]	2	2
+19540416	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.9, 0.0, 0.0]	0	0
+32338350	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.62, 0.0]	1	2
+31994164	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 4.02, 0.0, 0.0]	0	0
+21743869	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 2.68]	2	2
+15384087	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 96.05]	2	2
+24823404	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 2.4, 0.0, 0.0]	0	0
+32025252	Gold Standard	'0 - the study does not directly investigate quality of life'	1.0	[0.0, 3.16, 0.0, 0.0]	0	0
+25145809	Gold Standard	'2 - the study's primary contribution centers on quality of life measures'	1.0	[0.0, 0.0, 0.0, 1.4]	2	2
