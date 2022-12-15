@@ -69,6 +69,7 @@ We are currently working through datasets for each of these categories to suppor
 The annotation schema we use for these studies conforms to the following basic design:
 
 | Code | Explanation |
+|---|---|
 | -1 | the paper is not a primary experimental study in disease | 
 | 0 | The study does not directly investigate the phenomena of interest |
 | 1 | the study investigates the phenomena of interest but not as its primary contribution |
