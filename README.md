@@ -50,10 +50,30 @@ We provide access to all curated data being used. This includes data taken acros
 * COMMENTS - Curation comments for this task  
 * TIMESTAMP - The date + time that the CATEGORY score for this record was entered
 
-## V2 Corpus - Extending Curation to additional categories 
+## V2 Corpus - Specialized Subtypes of Paper 
 
-We are working on extending the number of categories curated under this scheme by curating `binary` data (i.e., identifying whether a paper belongs to a rarer category). We include this data for completeness but have not yet developed downstream processing for it.
+We developed a model to determine if a given research study belongs to a broader, specialized type of paper. The types of these papers include the following categories judged to be of high priority to rare disease research:
 
+* Quality of Life (file: `v2/qol_all_2022_12_15.tsv`)
+* Natural History Study
+* Diagnostic/Treatment Guidelines
+* Disease Models/Assays
+* Biomarkers (dx/disease progression/treatment evaluation)
+* Therapeutic targets/approaches
+* Partnerships with pharma/IP agreements
+* Clinical trials 
+* Approved/repurposed drugs
+
+We are currently working through datasets for each of these categories to support the development of specialized classifiers that can recognize these types of papers from their titles + abstracts alone. We have completed the data for the studies involving Quality of Life studies as shown.
+
+The annotation schema we use for these studies conforms to the following basic design:
+
+| Code | Explanation |
+| -1 | the paper is not a primary experimental study in disease | 
+| 0 | The study does not directly investigate the phenomena of interest |
+| 1 | the study investigates the phenomena of interest but not as its primary contribution |
+| 2 | the study's primary contribution centers on investigating the phenomena of interest |
+ 
 ## Code of Conduct 
 
 This project adheres to [the Contributor Covenant code of conduct](https://www.contributor-covenant.org/), described in more detail here: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to opensource@chanzuckerberg.com.
